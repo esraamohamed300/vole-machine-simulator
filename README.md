@@ -31,8 +31,3 @@ The simulator supports Vole's machine language instructions, including:
 - *File handling* for program loading  
 - *Memory management* for simulating registers and execution flow  
 
-## Getting Started  
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/yourusername/vole-machine-simulator.git
-   cd vole-machine-simulator
